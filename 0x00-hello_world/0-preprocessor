@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "main.c" > $CFILE
+cp "main.c" >$CFILE
