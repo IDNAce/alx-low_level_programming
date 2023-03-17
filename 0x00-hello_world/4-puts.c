@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * main - This is the main function
- * Return return when 0
+ * main - This is the main functio
+ * n
+ * Return: always 0
  */
 int main(void)
 {
