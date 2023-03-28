@@ -3,7 +3,6 @@
  * print_rev - prints in reverse
  * @s: string to br printed
  * Return: 0
- *
  */
 void print_rev(char *s)
 {
